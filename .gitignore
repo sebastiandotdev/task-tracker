@@ -6,6 +6,7 @@
 /.vscode/
 
 /node_modules
+/coverage
 
 .env
 *.orig
