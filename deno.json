@@ -1,4 +1,5 @@
 {
+  "lock": false,
   "tasks": {
     "test:dev": "deno test tests/* --watch --parallel",
     "test:cov": "deno test tests/* --coverage --parallel"
