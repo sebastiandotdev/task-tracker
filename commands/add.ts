@@ -13,4 +13,3 @@ export function add(name: string): Todo[] | Error {
   } catch (error) {
     return (error as Error)
   }
-}
