@@ -12,6 +12,8 @@
   "imports": {
     "@std/assert": "jsr:@std/assert@1",
     "@std/cli": "jsr:@std/cli@^1.0.6",
+    "@tools/constants": "./_tools/constants.ts",
+    "@tools/types": "./_tools/_types.ts",
     "@commands/add": "./commands/add.ts"
   }
 }
